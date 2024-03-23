@@ -1,0 +1,446 @@
+#EXTM3U
+#EXTINF:-1 ,BLUE HUSTLER 
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+
+#EXTINF:-1 ,XXX1
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8?
+
+#EXTINF:-1 ,XXX2
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8?
+
+
+#EXTINF:-1,RUSSIAN
+http://185.38.12.20:8088/rusnoch/
+
+#EXTINF:-1,PRIVATE
+http://185.38.12.20:8088/rusnoch/
+
+#EXTINF:-1,PASSIEXXX
+http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8?
+
+#EXTINF:-1,OLALA
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+
+
+#EXTINF:-1,PLAYBOY TV XXX
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
+
+#EXTINF:-1,ROUGE TV XXX
+http://rtmp.infomaniak.ch/livecast/rougetv/hasbahca.m3u8
+
+#EXTINF:-1,BABESTATION XXX
+http://46.105.116.159:1935/cellcast/encoder22/.m3u8
+
+#EXTINF:-1,HOT HOT HOT XXX
+http://www.djing.com/tv/hothothot.m3u8
+
+#EXTINF:-1,ADULTO XXX
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+
+#EXTINF:-1, JAZMIN XXX
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+
+#EXTINF:-1, OLALA XXX
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+
+#EXTINF:-1, PASSIEXXX
+http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
+
+#EXTINF:-1, PLAYBOY TV XXX
+http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
+
+#EXTINF:-1, RUSSUAN NIGHT XXX
+http://185.38.12.20:8088/rusnoch/
+
+#EXTINF:-1, ADULT PREMIUM 1 XXX
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-
+b1100000_2398.m3u8
+#EXTINF:-1, ADULT PREMIUM 2 XXX
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/media-
+b1100000_2400.m3u8
+
+#EXTINF:-1, POWER GIRLS XXX
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-
+mr648k.m3u8
+
+#EXTINF:-1, LIVE SEX LATINAS XXX
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Adult Premium 1
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-
+b1100000_2398.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Adult Premium 2
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/media-
+b1100000_2400.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",ADULTO 1 XXX
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",ASIA 8081
+http://59.120.43.181:8081
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",ASIA 8082
+http://59.120.43.181:8082
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",ASIA 8083
+http://59.120.43.181:8083
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",ASIA 8084
+http://59.120.43.181:8084
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",ASIA 8085
+http://59.120.43.181:8085
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",ASIA 8086
+http://59.120.43.181:8086
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",ASIA rtmp ttv10
+rtmp://149.3.141.210:1935/tv/ttv10
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",ASIA rtmp ttv11
+rtmp://149.3.141.210:1935/tv/ttv11
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",ASIA rtmp ttv12
+rtmp://149.3.141.210:1935/tv/ttv12
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",ASIA rtmp ttv13
+rtmp://149.3.141.210:1935/tv/ttv13
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",ASIA rtmp ttv14
+rtmp://149.3.141.210:1935/tv/ttv14
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",ASIA rtmp ttv15
+rtmp://149.3.141.210:1935/tv/ttv15
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",ASIA rtmp ttv16
+rtmp://149.3.141.210:1935/tv/ttv16
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",BabeStation Unleashed 1
+http://46.105.116.159:1935/iptv_cellcast_24/livestream_three2/.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",BabeStation Unleashed 2
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",BabeStation Xtra
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Bella Luz rtsp
+rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Bizarre
+http://best-shqip-iptv.blogdns.com/stream/XXX3/ferid-012-2015/2003palas1502
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Blue Hustler
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",CS Sex +18 ADULT mmsh
+mmsh://tv.webmisto.cz:7000
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",DLDVS 1
+http://208.122.3.2:9000
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",DLDVS 2
+http://208.122.3.2:8700
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Hustler HD
+http://185.38.12.20:8088/hustler_hd/
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Jazmin Channel HD 720
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Korea m3u8 Ask TV
+http://edge2.everyon.tv/etv2/phd1005/BratuMarian.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Korea m3u8 Livething Premium
+http://edge2.everyon.tv/etv2/phd1006/BratuMarian.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Korea m3u8 Okadai
+http://edge2.everyon.tv/etv2/pld1003/BratuMarian.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Korea m3u8 Okadai HD
+http://edge2.everyon.tv/etv2/phd1003/BratuMarian.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Korea m3u8 Paradise TV
+http://edge2.everyon.tv/etv2/pld1008/BratuMarian.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Korea rtmp Ask TV
+rtmp://edge2.everyon.tv/etv2/phd1005
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Korea rtmp Livething Premium
+rtmp://edge2.everyon.tv/etv2/phd1006
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Korea rtmp Okadai
+rtmp://edge2.everyon.tv/etv2/pld1003
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Korea rtmp Okadai HD
+rtmp://edge2.everyon.tv/etv2/phd1003
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Korea rtmp Paradise TV
+rtmp://edge2.everyon.tv/etv2/pld1008
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Korea:éں©ه›½ phd1008
+rtmp://edge2.everyon.tv/etv2/phd1008
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Korea:éں©ه›½ phd499
+rtmp://edge2.everyon.tv/etv2sb/phd499
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Korea:éں©ه›½ phd501
+rtmp://edge2.everyon.tv/etv2sb/phd501
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Korea:éں©ه›½ phd511
+rtmp://edge2.everyon.tv/etv2sb/phd511
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Korea:éں©ه›½ phd59
+rtmp://edge2.everyon.tv/etv2sb/phd59
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Korea:éں©ه›½ phd60
+rtmp://edge2.everyon.tv/etv2sb/phd60
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Korea:éں©ه›½ phd61
+rtmp://edge2.everyon.tv/etv2sb/phd61
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Korea:éں©ه›½ phd62
+rtmp://edge2.everyon.tv/etv2sb/phd62
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Korea:éں©ه›½ phd63
+rtmp://edge2.everyon.tv/etv2sb/phd63
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Korea:éں©ه›½ phd64
+rtmp://edge2.everyon.tv/etv2sb/phd64
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Korea:éں©ه›½ phd769
+rtmp://edge2.everyon.tv/etv2sb/phd769
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Korea:éں©ه›½ phd771
+rtmp://edge2.everyon.tv/etv2sb/phd771
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Korea:éں©ه›½ phd772
+rtmp://edge2.everyon.tv/etv2sb/phd772
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Korea:éں©ه›½ phd968
+rtmp://edge2.everyon.tv/etv2sb/phd968
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Korea:éں©ه›½ phd991
+rtmp://edge2.everyon.tv/etv2sb/phd991
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Korea:éں©ه›½ phd992
+rtmp://edge2.everyon.tv/etv2sb/phd992
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Korea:éں©ه›½ phd993
+rtmp://edge2.everyon.tv/etv2sb/phd993
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",LiveSex Latinas
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Olalأ،
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Passiexxx
+http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Playboy TV
+http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",PowerGirls
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-
+mr648k.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",PT HOT+18
+http://myplace.dnsalias.com:6262/live/pt/gratis/24.ts
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",PT PLAYBOY
+http://myplace.dnsalias.com:6262/live/pt/gratis/25.ts
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",RUS PRIVATE
+http://185.38.12.20:8088/private/
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Russian Night
+http://185.38.12.20:8088/rusnoch/
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Russian Night
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",Super One
+http://best-shqip-iptv.blogdns.com/stream/hustlertv/ferid-012-2015/2003palas1502
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",TOP PREMIUM XXX
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="NEW
+13/05",XXX 1
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-
+logo="https://pbs.twimg.com/profile_images/464827677543645185/KPUHcUMO_400x400.jpeg
+" group-title="ASIA", XVIDEOS.COM
+go://http://xvideos.com
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",ASIA 8081
+http://59.120.43.181:8081
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",ASIA 8082
+http://59.120.43.181:8082
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",ASIA 8083
+http://59.120.43.181:8083
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",ASIA 8084
+http://59.120.43.181:8084
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",ASIA 8085
+http://59.120.43.181:8085
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",ASIA 8086
+http://59.120.43.181:8086
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",ASIA 8087
+http://59.120.43.181:8087
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",ASIA ttv10
+rtmp://149.3.141.210:1935/tv/ttv10
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",ASIA ttv11
+rtmp://149.3.141.210:1935/tv/ttv11
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",ASIA ttv12
+rtmp://149.3.141.210:1935/tv/ttv12
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",ASIA ttv13
+rtmp://149.3.141.210:1935/tv/ttv13
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",ASIA ttv14
+rtmp://149.3.141.210:1935/tv/ttv14
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",ASIA ttv15
+rtmp://149.3.141.210:1935/tv/ttv15
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",ASIA ttv16
+rtmp://149.3.141.210:1935/tv/ttv16
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",Blue Hustler
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",Brasileirinhas TV
+http://212.129.30.215/brasileirinhas/brasileirinhas/chunklist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="ASIA",CS
+Sex +18 ADULT mmsh
+mmsh://tv.webmisto.cz:7000
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",DLDVS 1
+http://208.122.3.2:9000
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",DLDVS 2
+http://208.122.3.2:8700
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="ASIA",HQ
+Amateurs
+http://galsflv.videosz.com//mom-and-the-pop_5/videosz-mom-and-the-pop-53.flv
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",Hustler HD
+http://185.38.12.20:8088/hustler_hd/
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",Korea Ask TV
+http://edge2.everyon.tv/etv2/phd1005/HasBahCa.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",Korea Livething Premium
+http://edge2.everyon.tv/etv2/phd1006/HasBahCa.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",Korea Okadai
+http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",Korea Okadai HD
+http://edge2.everyon.tv/etv2/phd1003/HasBahCa.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",Korea Paradise TV
+http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png"   group-
+title="ASIA",Korea Ask TV
+rtmp://edge2.everyon.tv/etv2/phd1005
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png"   group-
+title="ASIA",Korea Livething Premium
+rtmp://edge2.everyon.tv/etv2/phd1006
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png"   group-
+title="ASIA",Korea Okadai
+rtmp://edge2.everyon.tv/etv2/pld1003
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png"   group-
+title="ASIA",Korea Okadai HD
+rtmp://edge2.everyon.tv/etv2/phd1003
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png"   group-
+title="ASIA",Korea Paradise TV
+rtmp://edge2.everyon.tv/etv2/pld1008
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png"   group-
+title="ASIA",Korea:ADULT TV phd1008
+rtmp://edge2.everyon.tv/etv2/phd1008
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png"   group-
+title="ASIA",Korea:ADULT TV phd499
+rtmp://edge2.everyon.tv/etv2sb/phd499
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png"   group-
+title="ASIA",Korea:ADULT TV phd501
+rtmp://edge2.everyon.tv/etv2sb/phd501
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png"   group-
+title="ASIA",Korea:ADULT TV phd511
+rtmp://edge2.everyon.tv/etv2sb/phd511
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png"   group-
+title="ASIA",Korea:ADULT TV phd59
+rtmp://edge2.everyon.tv/etv2sb/phd59
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png"   group-
+title="ASIA",Korea:ADULT TV phd60
+rtmp://edge2.everyon.tv/etv2sb/phd60
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png"   group-
+title="ASIA",Korea:ADULT TV phd61
+rtmp://edge2.everyon.tv/etv2sb/phd61
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png"   group-
+title="ASIA",Korea:ADULT TV phd62
+rtmp://edge2.everyon.tv/etv2sb/phd62
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png"   group-
+title="ASIA",Korea:ADULT TV phd63
+rtmp://edge2.everyon.tv/etv2sb/phd63
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png"   group-
+title="ASIA",Korea:ADULT TV phd64
+rtmp://edge2.everyon.tv/etv2sb/phd64
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png"   group-
+title="ASIA",Korea:ADULT TV phd769
+rtmp://edge2.everyon.tv/etv2sb/phd769
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png"   group-
+title="ASIA",Korea:ADULT TV phd771
+rtmp://edge2.everyon.tv/etv2sb/phd771
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png"   group-
+title="ASIA",Korea:ADULT TV phd772
+rtmp://edge2.everyon.tv/etv2sb/phd772
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png"   group-
+title="ASIA",Korea:ADULT TV phd968
+rtmp://edge2.everyon.tv/etv2sb/phd968
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png"   group-
+title="ASIA",Korea:ADULT TV phd991
+rtmp://edge2.everyon.tv/etv2sb/phd991
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",Korea:ADULT TV phd992
+rtmp://edge2.everyon.tv/etv2sb/phd992
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",Korea:ADULT TV phd993
+rtmp://edge2.everyon.tv/etv2sb/phd993
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",Olala
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",RUS PRIVATE
+http://185.38.12.20:8088/private/
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",Russian Night
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",Russian night
+http://185.38.12.20:8088/rusnoch/
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",VOD
+http://cdn5.iviplanet.com:1935/VODLive2/_definst_/smil:vodlive2.smil/chunklist_w186
+7210504_b1300000.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-
+title="ASIA",XXXLive 3
+http://cdn5.iviplanet.com:1935/VODLive3/_definst_/smil:vodlive3.smil/chunklist_b120
+0000.m3u8
+#EXTINF:-1 group-title="ADULTOS (+18)" tvg-
+logo="https://thesinosaudiblog.files.wordpress.com/2010/03/pb-tv.jpg", Playboy TV
+USA (+18)
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
+#EXTINF:-1 group-title="ADULTOS (+18)" tvg-logo="http://i.imgur.com/bDcrR.png",
+Playboy TV Latino (+18)
+rtmp://19
